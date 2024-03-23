@@ -24,7 +24,7 @@ The successive increments to each start point cause them to move around the piec
 
 <img width="593" alt="Screenshot 2024-03-23 at 12 06 49" src="https://github.com/TheLongplayerTrust/.github/assets/25235927/72ae28b0-ee2f-4913-a448-27723ac0e713">
 
-<small>Score on 23rd March 2024 at 12.06 GMT: yellow sections represent the 2 minute sections playing at that time. This combination will not occur again until 23rd March 2024.</small>
+<small>Score on 23rd March 2024 at 12.06 GMT: yellow sections represent the 2 minute sections playing at that time. This combination will not occur again until 23rd March 3024.</small>
 
 
 The number of times each start point travels **360** degrees around the source music, in one **1000** year cycle, is, from lowest transposition to highest: **12,675** times, **54,480** times, **227** times, **1** time, **96,541** times and **1609** times. 
