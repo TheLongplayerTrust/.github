@@ -2,7 +2,7 @@
 
 One cycle: **1000** years / **365,243** days / **8,765,832** hours / **525,949,920** minutes 
 
-Longplayer is composed by the action of an algorithm on 6 pieces of musical material, the source music, each **20** minutes **20** seconds long. 
+Longplayer is composed by the action of an algorithm on **6** pieces of musical material, the source music, each **20** minutes **20** seconds long. 
 
 Each piece of source music is made from **39** singing bowls and periods of silence = **234** singing bowls.
 
