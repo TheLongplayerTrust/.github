@@ -23,3 +23,6 @@ At the beginning of Longplayer all start points are at **0** seconds, as they wi
 The successive increments to each start point cause them to move around the pieces of source music, each at a different rate determined by their value. The lengths of time it takes each start point to move once around the source music, **360** degrees, from **0** seconds to **20** minutes **20** seconds are, from lowest transposition to highest: **28.8160158** days, **6.70416667** days, **1609** days, **365243** days, **3.783294144456759** days and **227** days.
 
 The number of times each start point travels **360** degrees around the source music, in one **1000** year cycle, is, from lowest transposition to highest: **12,675** times, **54,480** times, **227** times, **1** time, **96,541** times and **1609** times. 
+
+For more information about Longplayer, read an [overview of the piece](https://longplayer.org/about/overview/).
+
